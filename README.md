@@ -1,4 +1,4 @@
-# live-event-producton-machine
+# Live Event production / show pc
 Disable windows "stuff" to make a proudction machine without automatic updates etc enabled
 
 # RUN AT OWN RISK!
